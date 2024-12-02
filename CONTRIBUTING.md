@@ -1,4 +1,4 @@
-# Contributing to [Project Name]
+# Contributing Guide
 
 Thank you for considering contributing! Here's how you can help:
 - Fork the repository.
